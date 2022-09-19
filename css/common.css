@@ -31,7 +31,7 @@ button {
 	list-style: none;
 }
 .picture {
-	width: 600px;
-	height: 400px;
+	width: 500px;
+	height: 350px;
 	object-fit: cover;
 }
