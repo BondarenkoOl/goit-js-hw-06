@@ -4,4 +4,4 @@ const variableText = document.querySelector('#text');
 const sizeText = (event) => {
 	variableText.style.fontSize = `${event.target.value}px`;
 };
-sizeControler.addEventListener('change', sizeText);
+sizeControler.addEventListener('input', sizeText);
